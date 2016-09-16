@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1345577132 source:c:\users\thejas\documents\musigma\main.cpp
+	<iostream>
+	"stdio.h"
+	"conio.h"
+
+1346942810 source:c:\users\thejas\desktop\musigma\main.cpp
+	<iostream>
+	"stdio.h"
+	"conio.h"
+	"math.h"
+
